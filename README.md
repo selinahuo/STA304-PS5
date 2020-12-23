@@ -1,0 +1,5 @@
+# STA304-PS5
+Population estimation could be viewed as an essential foundation for one country's strategy building. Most countries in Africa and almost one-third of all countries lack a mortality record; thus, they strongly rely on morality models to conduct population estimations and other demography and epidemiology tasks. In this paper, I will replicate Samuel J. Clark's mortality model in his paper 'A General Age-Specific Mortality Model with An Example Indexed by Child or Both Child and Adult Mortality' (2019), where Clark developed he singular value decomposition component model (SVD-Comp Model) based on previous researches' models. After building the model, I will use some countries as examples to discuss the SVD-Comp Model's performance with the log-quaternion model and conclude that the SVD-Comp Model is a better choice for the mortality model.
+  
+  **keywords**: Mortality; SVD; HMD; SVD-Comp; Log-Quad
+  
